@@ -1,0 +1,14 @@
+#ignora configuracaos da pasta do VSCode
+.vscode/
+
+# Ignora arquivos de build e dependencias
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.o
+*.obj
+*.out
+*.bin
